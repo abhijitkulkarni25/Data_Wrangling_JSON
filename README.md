@@ -1,11 +1,12 @@
 # Data_Wrangling_JSON
 
 This repository demonstrates the following objectives:
+
 ->Getting familiar with packages for dealing with JSON
 
-->Study examples with JSON strings and files
+->Demo examples with JSON strings and files
 
-->Working on exercise to be completed and submitted
+->Working on data exercises dealing with JSON format
 
 ->reference: http://pandas.pydata.org/pandas-docs/stable/io.html#io-json-reader
 
